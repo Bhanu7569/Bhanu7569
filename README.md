@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Bhanu Prakash
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...udemy, doing projects
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bhanu Prakash
+- 👀 I’m passionate about web development and enjoy building interactive and scalable applications.
+- 🌱 I’m currently gaining hands-on experience as an intern at Bitflex Technology.
+
 
 <!---
 Bhanu7569/Bhanu7569 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
