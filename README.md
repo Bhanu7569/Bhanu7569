@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu Prakash
 - 👀 I’m passionate about web development and enjoy building interactive and scalable applications.
-- 🌱 I’m currently gaining hands-on experience as an intern at Bitflex Technology.
+- 🌱 I’m currently gaining hands-on experience as an Trainee Software Engineer at Bitflex Technology.
 
 
 <!---
